@@ -1,3 +1,12 @@
 "*"        # Ignore everything
 "!/ai_mock_interview/"   # But not this folder
 "!/ai_mock_interview/.next/**"   # Track all files inside .next
+".VirtualBox/" 
+".cache/" 
+".conda/" 
+"*.ipynb_checkpoints/" 
+"AppData/" 
+"Downloads/" 
+"node_modules/" 
+"*.dat" 
+"*.ini" 
